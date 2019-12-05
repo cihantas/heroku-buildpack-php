@@ -149,6 +149,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
 	--enable-sockets \
 	--enable-zip \
 	--with-zlib \
+	--with-tidy \
 	--enable-bcmath=shared \
 	--enable-calendar=shared \
 	--enable-exif=shared \
